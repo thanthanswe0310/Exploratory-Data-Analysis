@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis
-EDA Exercise
+# EDA-Data-Analysis
+Applied Python with Exploratory Data Analysis 
